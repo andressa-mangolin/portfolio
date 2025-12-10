@@ -101,17 +101,11 @@ a{
         padding-left: 1.5rem;
         padding-top: 2rem;
     }
-
     .profile-photo {
-    /* Define um tamanho razoável para a foto de perfil */
-    width: 150px;
-    height: 150px;
-    /* Torna a foto redonda (opcional, mas comum em perfis) */
-    border-radius: 50%;
-    /* Garante que a foto preencha o espaço sem distorcer */
-    object-fit: cover;
-    /* Adiciona margem abaixo para separar do nome */
-    margin-bottom: 20px;
-}
+        /* Define um tamanho razoável para a foto de perfil */
+        width: 150px;
+        height: 150px;
+        /* ... outras regras ... */
+    }
     
 }
