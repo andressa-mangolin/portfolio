@@ -105,6 +105,9 @@ a{
         /* Define um tamanho razoável para a foto de perfil */
         width: 150px;
         height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin: 0 auto 20px auto;
         /* ... outras regras ... */
     }
     
